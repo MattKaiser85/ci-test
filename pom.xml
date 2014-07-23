@@ -14,6 +14,17 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <contributors>
+    <contributor>
+      <name>Matthew Kaiser</name>
+      <email>matthew.kaiser85@gmail.com</email>
+      <roles>
+        <role>developer</role>
+      </roles>
+      <timezone>America/NewYork</timezone>
+    </contributor>
+  </contributors>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
